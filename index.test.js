@@ -1,4 +1,4 @@
-const sum = require('./indexnew');
+const sum = require('./index');
 
 describe('Тестирование функции sum', () => {
   
