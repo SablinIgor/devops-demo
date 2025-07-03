@@ -1,0 +1,14 @@
+{
+  "name": "github-actions-demo",
+  "version": "1.0.0",
+  "description": "Demo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sablin Igor",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
